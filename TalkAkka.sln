@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkAkka.OldJob", "TalkAkka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkAkka.SingleActors", "TalkAkka.SingleActors\TalkAkka.SingleActors.csproj", "{443693A1-151F-4B98-B552-553BE93B6194}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkAkka.GroupActors", "TalkAkka.GroupActors\TalkAkka.GroupActors.csproj", "{4DE38BC8-D6D7-4EB1-B134-C71D6381553D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{443693A1-151F-4B98-B552-553BE93B6194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443693A1-151F-4B98-B552-553BE93B6194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443693A1-151F-4B98-B552-553BE93B6194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE38BC8-D6D7-4EB1-B134-C71D6381553D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE38BC8-D6D7-4EB1-B134-C71D6381553D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE38BC8-D6D7-4EB1-B134-C71D6381553D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE38BC8-D6D7-4EB1-B134-C71D6381553D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
