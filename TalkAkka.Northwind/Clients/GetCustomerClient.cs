@@ -15,7 +15,7 @@ namespace TalkAkka.Northwind
             HttpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
         }
 
-        public async Task<GetCustomerResponseModel> Get(string id)
+        public async Task<Customer> Get(string id)
         {
             var response = await HttpClient.GetAsync($"http://northwind.servicestack.net/customers/{id}.json");
             var content = await response.Content.ReadAsStringAsync();
