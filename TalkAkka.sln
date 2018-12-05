@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkAkka.OldConsole", "..\TalkAkka.OldConsole\TalkAkka.OldConsole.csproj", "{71BD27D5-D94E-4D40-BB0A-8E1DAA958BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkAkka.Northwind", "TalkAkka.Northwind\TalkAkka.Northwind.csproj", "{1ABA3B3F-B77A-44BD-87AF-B8F0EDE11D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BD27D5-D94E-4D40-BB0A-8E1DAA958BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BD27D5-D94E-4D40-BB0A-8E1DAA958BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BD27D5-D94E-4D40-BB0A-8E1DAA958BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BD27D5-D94E-4D40-BB0A-8E1DAA958BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABA3B3F-B77A-44BD-87AF-B8F0EDE11D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABA3B3F-B77A-44BD-87AF-B8F0EDE11D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABA3B3F-B77A-44BD-87AF-B8F0EDE11D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABA3B3F-B77A-44BD-87AF-B8F0EDE11D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED58A077-2D3D-4C97-88F4-84CBC471B635}
+	EndGlobalSection
+EndGlobal
